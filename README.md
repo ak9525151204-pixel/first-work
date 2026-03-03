@@ -1,2 +1,3 @@
 # first-work
-this is my first repository
+this is my first repository.
+Auther -Abhishek bihari
